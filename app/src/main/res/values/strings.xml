@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Demo</string>
+
+    <string name="message">
+        &lt;font color="#1861d6" face="">COLOR &lt;/font>
+        &lt;b>&lt;i>italic&lt;/i>&lt;/b>
+        &lt;u>underlined&lt;/u>
+        placeholder as %s
+    </string>
+</resources>
